@@ -5,7 +5,7 @@
 NAME = "ZenPacks.Lais.Asterisk"
 VERSION = "0.2"
 AUTHOR = "Andrea Consadori"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Lais']
 PACKAGES = ['ZenPacks', 'ZenPacks.Lais', 'ZenPacks.Lais.Asterisk']
 INSTALL_REQUIRES = []
